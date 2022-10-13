@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(255, 255, 255);
+  }
+h1 {
+    color: rgb(0, 157, 255);
+  }
+p {
+    color: black;
+  }
+.content{
+  color: black;
+}
+.link { color: blue } 
+.link:hover { color: #00FF00; } 
+#title {
+  font-size: 34px;
+}
